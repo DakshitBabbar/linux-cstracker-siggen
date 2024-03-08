@@ -1,1 +1,1 @@
-# linux-cstracker-siggen
+# Linux Context Switch Tracker and Signal Generator
